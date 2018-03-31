@@ -1,3 +1,8 @@
-# demo-dists
+# Angular Clarity Table Demo
 
-https://rspteam.github.io/demo-dists/scroll-table/
+Demo build with Clarity Design System
+
+https://vmware.github.io/clarity/
+
+
+[DEMO page](https://rspteam.github.io/demo-dists/scroll-table/)
